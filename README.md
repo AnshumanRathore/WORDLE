@@ -1,10 +1,10 @@
-# 🟩 Wordle (Web-Based)
+# Wordle (Web-Based)
 
 A fully functional, web-based clone of the popular word guessing game **Wordle**, built using pure **HTML, CSS, and Vanilla JavaScript**.
 
 This project demonstrates DOM manipulation, event handling, CSS animations, and game logic implementation without relying on external frameworks or libraries.
 
-## 🚀 Features
+##  Features
 
 * **Classic Gameplay:** 6 tries to guess a 5-letter word.
 * **Visual Feedback:**
@@ -17,27 +17,27 @@ This project demonstrates DOM manipulation, event handling, CSS animations, and 
 * **Responsive Design:** Works on desktop and mobile devices.
 * **Offline Capable:** The word bank is built-in, requiring no server connection.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **HTML5:** Semantic structure.
 * **CSS3:** Flexbox, CSS Grid, and Keyframe Animations.
 * **JavaScript (ES6+):** Game logic, state management, and DOM interaction.
 
-## 📂 How to Run
+##  How to Run
 
 1.  Clone or download this repository.
 2.  Open the folder in VS Code.
 3.  Open `index.html`.
 4.  **Recommended:** Use the "Live Server" extension in VS Code to run the game.
 
-## 🎮 How to Play
+##  How to Play
 
 1.  Type a 5-letter word and press **ENTER**.
 2.  Watch the tile colors change to see how close you are.
 3.  If you get stuck, click the **💡 Get Hint** button.
 4.  Reload the page to play again with a new random word!
 
-## 👨‍💻 Developer Cheat (Debug Mode)
+##  Developer Cheat (Debug Mode)
 
 If you are testing the app and need to know the answer immediately:
 1.  Open your browser's **Developer Tools** (Right-click -> Inspect -> Console).
